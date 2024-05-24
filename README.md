@@ -1,2 +1,2 @@
-# Scikit
-Using Scikit to work on several data and utilize machine learning tools 
+# ML dataset
+Using python libraries to work on several data from Kaggle and utilize machine learning tools 
