@@ -13,3 +13,7 @@ The files are organized into parts, covering the following topics:
 - **Part 7**: Working on New York City Taxi Fare Prediction
 
 Explore each part to delve into specific machine-learning concepts and applications.
+
+
+## Andrew Ng notes 
+Summarized and significant points extracted from each lecture of Andrew Ng's Stanford series on YouTube. These notes highlight essential equations and core concepts presented in the CS-229 2018 lecture series.
